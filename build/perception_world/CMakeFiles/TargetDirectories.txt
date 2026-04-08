@@ -1,9 +1,0 @@
-/home/vishwa/perception_ws/build/perception_world/CMakeFiles/uninstall.dir
-/home/vishwa/perception_ws/build/perception_world/CMakeFiles/perception_world_uninstall.dir
-/home/vishwa/perception_ws/build/perception_world/CMakeFiles/test.dir
-/home/vishwa/perception_ws/build/perception_world/CMakeFiles/edit_cache.dir
-/home/vishwa/perception_ws/build/perception_world/CMakeFiles/rebuild_cache.dir
-/home/vishwa/perception_ws/build/perception_world/CMakeFiles/list_install_components.dir
-/home/vishwa/perception_ws/build/perception_world/CMakeFiles/install.dir
-/home/vishwa/perception_ws/build/perception_world/CMakeFiles/install/local.dir
-/home/vishwa/perception_ws/build/perception_world/CMakeFiles/install/strip.dir
