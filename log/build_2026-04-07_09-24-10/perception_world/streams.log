@@ -1,0 +1,20 @@
+[0.156s] Invoking command in '/home/vishwa/perception_ws/build/perception_world': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vishwa/perception_ws/install/amr_vision:/opt/ros/humble /usr/bin/cmake --build /home/vishwa/perception_ws/build/perception_world -- -j20 -l20
+[0.182s] Invoked command in '/home/vishwa/perception_ws/build/perception_world' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vishwa/perception_ws/install/amr_vision:/opt/ros/humble /usr/bin/cmake --build /home/vishwa/perception_ws/build/perception_world -- -j20 -l20
+[0.190s] Invoking command in '/home/vishwa/perception_ws/build/perception_world': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vishwa/perception_ws/install/amr_vision:/opt/ros/humble /usr/bin/cmake --install /home/vishwa/perception_ws/build/perception_world
+[0.194s] -- Install configuration: ""
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/ament_index/resource_index/package_run_dependencies/perception_world
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/ament_index/resource_index/parent_prefix_path/perception_world
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/perception_world/environment/ament_prefix_path.sh
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/perception_world/environment/ament_prefix_path.dsv
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/perception_world/environment/path.sh
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/perception_world/environment/path.dsv
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/perception_world/local_setup.bash
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/perception_world/local_setup.sh
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/perception_world/local_setup.zsh
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/perception_world/local_setup.dsv
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/perception_world/package.dsv
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/ament_index/resource_index/packages/perception_world
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/perception_world/cmake/perception_worldConfig.cmake
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/perception_world/cmake/perception_worldConfig-version.cmake
+[0.195s] -- Up-to-date: /home/vishwa/perception_ws/install/perception_world/share/perception_world/package.xml
+[0.196s] Invoked command in '/home/vishwa/perception_ws/build/perception_world' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vishwa/perception_ws/install/amr_vision:/opt/ros/humble /usr/bin/cmake --install /home/vishwa/perception_ws/build/perception_world

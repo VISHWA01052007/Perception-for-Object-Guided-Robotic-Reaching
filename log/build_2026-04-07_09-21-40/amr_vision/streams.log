@@ -1,0 +1,37 @@
+[0.427s] Invoking command in '/home/vishwa/perception_ws/src/amr_vision': PYTHONPATH=/home/vishwa/perception_ws/build/amr_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vishwa/perception_ws/install/amr_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/amr_vision build --build-base /home/vishwa/perception_ws/build/amr_vision/build install --record /home/vishwa/perception_ws/build/amr_vision/install.log --single-version-externally-managed install_data
+[0.585s] running egg_info
+[0.585s] creating ../../build/amr_vision/amr_vision.egg-info
+[0.585s] writing ../../build/amr_vision/amr_vision.egg-info/PKG-INFO
+[0.585s] writing dependency_links to ../../build/amr_vision/amr_vision.egg-info/dependency_links.txt
+[0.585s] writing entry points to ../../build/amr_vision/amr_vision.egg-info/entry_points.txt
+[0.586s] writing requirements to ../../build/amr_vision/amr_vision.egg-info/requires.txt
+[0.586s] writing top-level names to ../../build/amr_vision/amr_vision.egg-info/top_level.txt
+[0.586s] writing manifest file '../../build/amr_vision/amr_vision.egg-info/SOURCES.txt'
+[0.586s] reading manifest file '../../build/amr_vision/amr_vision.egg-info/SOURCES.txt'
+[0.587s] writing manifest file '../../build/amr_vision/amr_vision.egg-info/SOURCES.txt'
+[0.587s] running build
+[0.587s] running build_py
+[0.587s] creating /home/vishwa/perception_ws/build/amr_vision/build
+[0.587s] creating /home/vishwa/perception_ws/build/amr_vision/build/lib
+[0.587s] creating /home/vishwa/perception_ws/build/amr_vision/build/lib/amr_vision
+[0.587s] copying amr_vision/__init__.py -> /home/vishwa/perception_ws/build/amr_vision/build/lib/amr_vision
+[0.587s] copying amr_vision/red_detector.py -> /home/vishwa/perception_ws/build/amr_vision/build/lib/amr_vision
+[0.587s] running install
+[0.587s] running install_lib
+[0.588s] creating /home/vishwa/perception_ws/install/amr_vision/lib/python3.10/site-packages/amr_vision
+[0.588s] copying /home/vishwa/perception_ws/build/amr_vision/build/lib/amr_vision/__init__.py -> /home/vishwa/perception_ws/install/amr_vision/lib/python3.10/site-packages/amr_vision
+[0.588s] copying /home/vishwa/perception_ws/build/amr_vision/build/lib/amr_vision/red_detector.py -> /home/vishwa/perception_ws/install/amr_vision/lib/python3.10/site-packages/amr_vision
+[0.588s] byte-compiling /home/vishwa/perception_ws/install/amr_vision/lib/python3.10/site-packages/amr_vision/__init__.py to __init__.cpython-310.pyc
+[0.588s] byte-compiling /home/vishwa/perception_ws/install/amr_vision/lib/python3.10/site-packages/amr_vision/red_detector.py to red_detector.cpython-310.pyc
+[0.589s] running install_data
+[0.589s] creating /home/vishwa/perception_ws/install/amr_vision/share/ament_index
+[0.589s] creating /home/vishwa/perception_ws/install/amr_vision/share/ament_index/resource_index
+[0.589s] creating /home/vishwa/perception_ws/install/amr_vision/share/ament_index/resource_index/packages
+[0.589s] copying resource/amr_vision -> /home/vishwa/perception_ws/install/amr_vision/share/ament_index/resource_index/packages
+[0.589s] copying package.xml -> /home/vishwa/perception_ws/install/amr_vision/share/amr_vision
+[0.589s] running install_egg_info
+[0.590s] Copying ../../build/amr_vision/amr_vision.egg-info to /home/vishwa/perception_ws/install/amr_vision/lib/python3.10/site-packages/amr_vision-0.0.0-py3.10.egg-info
+[0.590s] running install_scripts
+[0.604s] Installing find_red script to /home/vishwa/perception_ws/install/amr_vision/lib/amr_vision
+[0.604s] writing list of installed files to '/home/vishwa/perception_ws/build/amr_vision/install.log'
+[0.621s] Invoked command in '/home/vishwa/perception_ws/src/amr_vision' returned '0': PYTHONPATH=/home/vishwa/perception_ws/build/amr_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vishwa/perception_ws/install/amr_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/amr_vision build --build-base /home/vishwa/perception_ws/build/amr_vision/build install --record /home/vishwa/perception_ws/build/amr_vision/install.log --single-version-externally-managed install_data

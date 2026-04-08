@@ -1,0 +1,3 @@
+[console_scripts]
+find_red = amr_vision.red_detector:main
+

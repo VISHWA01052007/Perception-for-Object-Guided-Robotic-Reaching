@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/amr_vision/amr_vision.egg-info/PKG-INFO
+writing dependency_links to ../../build/amr_vision/amr_vision.egg-info/dependency_links.txt
+writing entry points to ../../build/amr_vision/amr_vision.egg-info/entry_points.txt
+writing requirements to ../../build/amr_vision/amr_vision.egg-info/requires.txt
+writing top-level names to ../../build/amr_vision/amr_vision.egg-info/top_level.txt
+reading manifest file '../../build/amr_vision/amr_vision.egg-info/SOURCES.txt'
+writing manifest file '../../build/amr_vision/amr_vision.egg-info/SOURCES.txt'
+running build
+running build_py
+copying amr_vision/red_detector.py -> /home/vishwa/perception_ws/build/amr_vision/build/lib/amr_vision
+running install
+running install_lib
+copying /home/vishwa/perception_ws/build/amr_vision/build/lib/amr_vision/red_detector.py -> /home/vishwa/perception_ws/install/amr_vision/lib/python3.10/site-packages/amr_vision
+byte-compiling /home/vishwa/perception_ws/install/amr_vision/lib/python3.10/site-packages/amr_vision/red_detector.py to red_detector.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/vishwa/perception_ws/install/amr_vision/lib/python3.10/site-packages/amr_vision-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/amr_vision/amr_vision.egg-info to /home/vishwa/perception_ws/install/amr_vision/lib/python3.10/site-packages/amr_vision-0.0.0-py3.10.egg-info
+running install_scripts
+Installing find_red script to /home/vishwa/perception_ws/install/amr_vision/lib/amr_vision
+writing list of installed files to '/home/vishwa/perception_ws/build/amr_vision/install.log'

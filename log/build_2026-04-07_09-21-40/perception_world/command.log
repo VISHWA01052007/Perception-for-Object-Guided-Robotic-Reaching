@@ -1,0 +1,6 @@
+Invoking command in '/home/vishwa/perception_ws/build/perception_world': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vishwa/perception_ws/src/perception_world -DCMAKE_INSTALL_PREFIX=/home/vishwa/perception_ws/install/perception_world
+Invoked command in '/home/vishwa/perception_ws/build/perception_world' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vishwa/perception_ws/src/perception_world -DCMAKE_INSTALL_PREFIX=/home/vishwa/perception_ws/install/perception_world
+Invoking command in '/home/vishwa/perception_ws/build/perception_world': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vishwa/perception_ws/build/perception_world -- -j20 -l20
+Invoked command in '/home/vishwa/perception_ws/build/perception_world' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vishwa/perception_ws/build/perception_world -- -j20 -l20
+Invoking command in '/home/vishwa/perception_ws/build/perception_world': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vishwa/perception_ws/build/perception_world
+Invoked command in '/home/vishwa/perception_ws/build/perception_world' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vishwa/perception_ws/build/perception_world
