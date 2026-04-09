@@ -18,3 +18,7 @@ __pycache__/
 # Linux
 *.swp
 *.tmp
+
+rosbag2_*
+*.db3
+*.zip
