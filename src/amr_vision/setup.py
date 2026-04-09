@@ -1,11 +1,11 @@
-from setuptools import find_packages, setup
+from setuptools import setup
 
 package_name = 'amr_vision'
 
 setup(
     name=package_name,
     version='0.0.0',
-    packages=find_packages(exclude=['test']),
+    packages=[package_name],
     data_files=[
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
@@ -14,17 +14,14 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='vishwa',
-    maintainer_email='vishwags26@gmail.com',
-    description='TODO: Package description',
-    license='TODO: License declaration',
-    extras_require={
-        'test': [
-            'pytest',
-        ],
-    },
+    maintainer_email='vishwa@todo.todo',
+    description='AMR Vision perception nodes',
+    license='TODO',
+    tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'find_red = amr_vision.red_detector:main',
+            'red_detector = amr_vision.red_detector:main',
+            'eye_in_sky = amr_vision.eye_in_sky:main',
         ],
     },
 )

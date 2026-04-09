@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/build": true,
+        "**/install": true,
+        "**/log": true
+    },
+    "search.exclude": {
+        "**/build": true,
+        "**/install": true,
+        "**/log": true
+    },
+    "python.analysis.exclude": [
+        "**/build",
+        "**/install",
+        "**/log"
+    ]
+}
